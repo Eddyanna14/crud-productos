@@ -1,0 +1,5 @@
+<?php
+
+echo "<h1>CRUD Productos funcionando</h1>";
+
+?>
