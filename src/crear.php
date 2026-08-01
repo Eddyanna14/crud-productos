@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 
-<h2>Agregar Producto</h2>
+<h2>Registro de nuevos productos</h2>
 
 <form method="POST">
 
