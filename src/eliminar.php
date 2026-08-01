@@ -9,6 +9,10 @@ if ($conn->query($sql) === TRUE) {
     header("Location: index.php");
     exit();
 } else {
-    echo "Error al eliminar: " . $conn->error;
+  <?php
+
+echo "Módulo eliminar productos funcionando";
+
+?>
 }
 ?>
