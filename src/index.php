@@ -12,7 +12,7 @@ $resultado = $conn->query("SELECT * FROM productos");
 </head>
 <body>
 
-<h1>CRUD de Productos</h1>
+<h1>Sistema CRUD de Productos</h1>
 
 <a href="crear.php">Agregar Producto</a>
 
